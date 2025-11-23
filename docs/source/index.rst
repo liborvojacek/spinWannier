@@ -11,7 +11,7 @@
 Welcome to spinWannier's documentation!
 =======================================
 
-The `spinWannier project on GitHub <https://github.com/liborsold/spinWannier/>`_ is a Python package for handling Wannier models with a spin operator, calculating the Wannier model quality and spin-texture plotting, as illustrated below.
+The `spinWannier project on GitHub <https://github.com/liborvojacek/spinWannier/>`_ is a Python package for handling Wannier models with a spin operator, calculating the Wannier model quality and spin-texture plotting, as illustrated below.
 
 .. CrXY example image
 .. image::
@@ -33,7 +33,7 @@ then
 
 .. code-block:: python
    
-   git clone https://github.com/liborsold/spinWannier.git
+   git clone https://github.com/liborvojacek/spinWannier.git
    
 and execute the ``./examples/spinWannier_use_example.ipynb`` Jupyter notebook to see an example of calculating the Wannier (spin) interpolation, 1D and 2D spin-texture plotting and Wannier model quality calculation.
 
