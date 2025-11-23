@@ -38,7 +38,7 @@ exclude_patterns = []
 
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
-    "repository_url": "https://github.com/liborsold/spinWannier",
+    "repository_url": "https://github.com/liborvojacek/spinWannier",
     "use_source_button": False,
     "use_repository_button": True,
     "repository_branch": "master",
